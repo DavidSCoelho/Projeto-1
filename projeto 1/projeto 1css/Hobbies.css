@@ -1,8 +1,0 @@
-.figure{height: 300px;
-    width: 1360px;}
-    body{background-color: black;}
-    .hobbies{color:azure; font-size: 55px;}
-    .definition{color:white}
-    @media (max-width: 800px) {
-        .figure{display: none;}
-    }
