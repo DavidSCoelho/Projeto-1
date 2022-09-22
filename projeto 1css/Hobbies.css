@@ -1,0 +1,13 @@
+.figure{height: 300px;
+    width: 1360px;}
+    body{background-color: black;}
+    .hobbies{color:azure; font-size: 55px;}
+    .definition{color:white}
+    .menu{display:flex;
+        flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: larger}
+    @media (max-width: 800px) {
+        .figure{display: none;}
+    }
